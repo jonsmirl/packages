@@ -1,0 +1,17 @@
+Bottom: 64b385b9d105cf1d28a0553dc21543b3e284e535
+Top:    f8803fee89b7f1c99a09bd882074f99263035a8d
+Author: Jon Smirl <jonsmirl@gmail.com>
+Date:   2013-05-23 10:55:56 -0400
+
+Refresh of jds-1
+
+---
+
+diff --git a/.gitignore b/.gitignore
+index 6ffab9a..315e28e 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1,2 +1,3 @@
+ *.orig
+ *.rej
++/patches*
